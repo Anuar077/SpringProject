@@ -1,1 +1,1 @@
-# The project showed a startup error, but when updating the database, I saw that everything is being added. I attach a screenshot with the name: DatabaseScreen
+# The project showed a startup error, but when updating the database, I saw that everything is being added. I attach a screenshot with the name: DatabaseScreen. Thank you for checking and reading this post, I wish you a good weekend!!!
